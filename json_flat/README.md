@@ -45,6 +45,8 @@ npm test
 ## Input: 
 **The input can either be taken from the stdin:**
 1) When asked for the prompt named JSON, enter the JSON object using the keyboard. Make sure to have double quotes (" ") along the key.
+
+
 **A JSON file can be parsed as the input:**
 1) Comment line 11 and 12 in main.js
 2) Uncomment line 8 in main.js
